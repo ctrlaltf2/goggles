@@ -1,6 +1,6 @@
 ! name: Metasearch
 ! description: Search through others' collections of links to resources
-! public: false
+! public: true
 ! author: ctrlaltf2
 
 ! This mostly lists a bunch of people's Personal Knowledge Management systems, which usually consist of many pages,
